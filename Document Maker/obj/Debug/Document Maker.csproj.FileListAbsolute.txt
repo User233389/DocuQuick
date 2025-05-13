@@ -1,0 +1,46 @@
+C:\Users\takah\source\repos\Document Maker\Document Maker\bin\Debug\Document Maker.exe.config
+C:\Users\takah\source\repos\Document Maker\Document Maker\bin\Debug\Document Maker.exe
+C:\Users\takah\source\repos\Document Maker\Document Maker\bin\Debug\Document Maker.pdb
+C:\Users\takah\source\repos\Document Maker\Document Maker\bin\Debug\System.Windows.Forms.Ribbon.dll
+C:\Users\takah\source\repos\Document Maker\Document Maker\obj\Debug\Document Maker.csproj.AssemblyReference.cache
+C:\Users\takah\source\repos\Document Maker\Document Maker\obj\Debug\Document_Maker.Form1.resources
+C:\Users\takah\source\repos\Document Maker\Document Maker\obj\Debug\Document_Maker.Properties.Resources.resources
+C:\Users\takah\source\repos\Document Maker\Document Maker\obj\Debug\Document Maker.csproj.GenerateResource.cache
+C:\Users\takah\source\repos\Document Maker\Document Maker\obj\Debug\Document Maker.csproj.CoreCompileInputs.cache
+C:\Users\takah\source\repos\Document Maker\Document Maker\obj\Debug\Document.D225C1DB.Up2Date
+C:\Users\takah\source\repos\Document Maker\Document Maker\obj\Debug\Document Maker.exe
+C:\Users\takah\source\repos\Document Maker\Document Maker\obj\Debug\Document Maker.pdb
+C:\Users\takah\source\repos\Document Maker\Document Maker\obj\Debug\Document_Maker.About.resources
+C:\Users\takah\source\repos\Document Maker\Document Maker\obj\Debug\Document_Maker.Third_parties.resources
+C:\Users\takah\source\repos\Document Maker\Document Maker\obj\Debug\Document_Maker.AppExit.resources
+C:\Users\takah\source\repos\Document Maker\Document Maker\bin\Debug\AeroWizard.dll
+C:\Users\takah\source\repos\Document Maker\Document Maker\bin\Debug\AeroWizard.xml
+C:\Users\takah\source\repos\Document Maker\Document Maker\bin\Debug\de\AeroWizard.resources.dll
+C:\Users\takah\source\repos\Document Maker\Document Maker\bin\Debug\es\AeroWizard.resources.dll
+C:\Users\takah\source\repos\Document Maker\Document Maker\bin\Debug\fr\AeroWizard.resources.dll
+C:\Users\takah\source\repos\Document Maker\Document Maker\bin\Debug\it\AeroWizard.resources.dll
+C:\Users\takah\source\repos\Document Maker\Document Maker\bin\Debug\pl\AeroWizard.resources.dll
+C:\Users\takah\source\repos\Document Maker\Document Maker\bin\Debug\ru\AeroWizard.resources.dll
+C:\Users\takah\source\repos\Document Maker\Document Maker\bin\Debug\zh-CN\AeroWizard.resources.dll
+C:\Users\takah\source\repos\Document Maker\Document Maker\obj\Debug\Document_Maker.DCW.resources
+C:\Users\takah\source\repos\Document Maker\Document Maker\bin\Debug\WindowsFormsToolkit.dll
+C:\Users\takah\source\repos\Document Maker\Document Maker\bin\Debug\EasyTabs.dll
+C:\Users\takah\source\repos\Document Maker\Document Maker\bin\Debug\Microsoft.WindowsAPICodePack.dll
+C:\Users\takah\source\repos\Document Maker\Document Maker\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\takah\source\repos\Document Maker\Document Maker\bin\Debug\Svg.dll
+C:\Users\takah\source\repos\Document Maker\Document Maker\bin\Debug\Win32Interop.Dwmapi.dll
+C:\Users\takah\source\repos\Document Maker\Document Maker\bin\Debug\Win32Interop.Gdi32.dll
+C:\Users\takah\source\repos\Document Maker\Document Maker\bin\Debug\Win32Interop.Kernel32.dll
+C:\Users\takah\source\repos\Document Maker\Document Maker\bin\Debug\Win32Interop.User32.dll
+C:\Users\takah\source\repos\Document Maker\Document Maker\bin\Debug\Win32Interop.Uxtheme.dll
+C:\Users\takah\source\repos\Document Maker\Document Maker\bin\Debug\EasyTabs.xml
+C:\Users\takah\source\repos\Document Maker\Document Maker\bin\Debug\Svg.pdb
+C:\Users\takah\source\repos\Document Maker\Document Maker\bin\Debug\Svg.xml
+C:\Users\takah\source\repos\Document Maker\Document Maker\bin\Debug\Win32Interop.Dwmapi.pdb
+C:\Users\takah\source\repos\Document Maker\Document Maker\bin\Debug\Win32Interop.Gdi32.pdb
+C:\Users\takah\source\repos\Document Maker\Document Maker\bin\Debug\Win32Interop.Gdi32.xml
+C:\Users\takah\source\repos\Document Maker\Document Maker\bin\Debug\Win32Interop.Kernel32.pdb
+C:\Users\takah\source\repos\Document Maker\Document Maker\bin\Debug\Win32Interop.User32.pdb
+C:\Users\takah\source\repos\Document Maker\Document Maker\bin\Debug\Win32Interop.Uxtheme.pdb
+C:\Users\takah\source\repos\Document Maker\Document Maker\obj\Debug\Document_Maker.Loading.resources
+C:\Users\takah\source\repos\Document Maker\Document Maker\obj\Debug\Document_Maker.WordInstallationValidationWizard.resources
