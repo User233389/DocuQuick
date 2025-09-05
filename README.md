@@ -1,4 +1,4 @@
-<img width="2216" height="1336" alt="スクリーンショット 2025-08-30 232534" src="https://github.com/user-attachments/assets/f5f617a2-60f9-4021-bd75-c3b0b02d7e2a" />
+<img width="2880" height="1704" alt="スクリーンショット 2025-09-06 012006" src="https://github.com/user-attachments/assets/11345062-4ba1-435e-bdb0-ed32016d5b5d" />
 
 # DocuQick「旧名:Document Maker」
 
