@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "AquYdrlSefw=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\takah\\Desktop\\source\\repos\\Document Maker\\Document Maker\\Document Maker\\Document Maker.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\takah\\.nuget\\packages\\aerowizard\\2.3.1\\aerowizard.2.3.1.nupkg.sha512",
+    "C:\\Users\\takah\\.nuget\\packages\\fluenttransitions\\2.0.1\\fluenttransitions.2.0.1.nupkg.sha512",
+    "C:\\Users\\takah\\.nuget\\packages\\krypton.components.suite\\4.5.8\\krypton.components.suite.4.5.8.nupkg.sha512",
+    "C:\\Users\\takah\\.nuget\\packages\\krypton.toolkit\\95.25.8.235\\krypton.toolkit.95.25.8.235.nupkg.sha512",
+    "C:\\Users\\takah\\.nuget\\packages\\microsoft.office.interop.outlook\\15.0.4797.1004\\microsoft.office.interop.outlook.15.0.4797.1004.nupkg.sha512",
+    "C:\\Users\\takah\\.nuget\\packages\\microsoft.office.interop.word\\15.0.4797.1004\\microsoft.office.interop.word.15.0.4797.1004.nupkg.sha512",
+    "C:\\Users\\takah\\.nuget\\packages\\microsoft.windows.sdk.contracts\\10.0.26100.4948\\microsoft.windows.sdk.contracts.10.0.26100.4948.nupkg.sha512",
+    "C:\\Users\\takah\\.nuget\\packages\\system.runtime.interopservices.windowsruntime\\4.3.0\\system.runtime.interopservices.windowsruntime.4.3.0.nupkg.sha512",
+    "C:\\Users\\takah\\.nuget\\packages\\system.runtime.windowsruntime\\4.6.0\\system.runtime.windowsruntime.4.6.0.nupkg.sha512",
+    "C:\\Users\\takah\\.nuget\\packages\\system.runtime.windowsruntime.ui.xaml\\4.6.0\\system.runtime.windowsruntime.ui.xaml.4.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}

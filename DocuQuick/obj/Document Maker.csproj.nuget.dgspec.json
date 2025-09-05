@@ -1,0 +1,106 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\takah\\Desktop\\source\\repos\\Document Maker\\Document Maker\\Document Maker\\Document Maker.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\takah\\Desktop\\source\\repos\\Document Maker\\Document Maker\\Document Maker\\Document Maker.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\takah\\Desktop\\source\\repos\\Document Maker\\Document Maker\\Document Maker\\Document Maker.csproj",
+        "projectName": "DocuQuick",
+        "projectPath": "C:\\Users\\takah\\Desktop\\source\\repos\\Document Maker\\Document Maker\\Document Maker\\Document Maker.csproj",
+        "packagesPath": "C:\\Users\\takah\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\takah\\Desktop\\source\\repos\\Document Maker\\Document Maker\\Document Maker\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "UsingMicrosoftNETSdk": false,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\takah\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net48"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net48": {
+            "projectReferences": {}
+          }
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net48": {
+          "dependencies": {
+            "AeroWizard": {
+              "target": "Package",
+              "version": "[2.3.1, )"
+            },
+            "FluentTransitions": {
+              "target": "Package",
+              "version": "[2.0.1, )"
+            },
+            "Krypton.Components.Suite": {
+              "target": "Package",
+              "version": "[4.5.8, )"
+            },
+            "Krypton.Toolkit": {
+              "target": "Package",
+              "version": "[95.25.8.235, )"
+            },
+            "Microsoft.Office.Interop.Outlook": {
+              "target": "Package",
+              "version": "[15.0.4797.1004, )"
+            },
+            "Microsoft.Office.Interop.Word": {
+              "target": "Package",
+              "version": "[15.0.4797.1004, )"
+            },
+            "Microsoft.Windows.SDK.Contracts": {
+              "target": "Package",
+              "version": "[10.0.26100.4948, )"
+            },
+            "System.Runtime.InteropServices.WindowsRuntime": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            },
+            "System.Runtime.WindowsRuntime": {
+              "target": "Package",
+              "version": "[4.6.0, )"
+            },
+            "System.Runtime.WindowsRuntime.UI.Xaml": {
+              "target": "Package",
+              "version": "[4.6.0, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-arm64": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

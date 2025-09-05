@@ -1,0 +1,63 @@
+D:\source\repos\Document Maker\Document Maker\Document Maker\bin\Debug\Document Maker.exe.config
+D:\source\repos\Document Maker\Document Maker\Document Maker\bin\Debug\Document Maker.exe
+D:\source\repos\Document Maker\Document Maker\Document Maker\bin\Debug\Document Maker.pdb
+D:\source\repos\Document Maker\Document Maker\Document Maker\bin\Debug\ComponentFactory.Krypton.Design.dll
+D:\source\repos\Document Maker\Document Maker\Document Maker\bin\Debug\ComponentFactory.Krypton.Docking.dll
+D:\source\repos\Document Maker\Document Maker\Document Maker\bin\Debug\ComponentFactory.Krypton.Navigator.dll
+D:\source\repos\Document Maker\Document Maker\Document Maker\bin\Debug\ComponentFactory.Krypton.Ribbon.dll
+D:\source\repos\Document Maker\Document Maker\Document Maker\bin\Debug\ComponentFactory.Krypton.Toolkit.dll
+D:\source\repos\Document Maker\Document Maker\Document Maker\bin\Debug\ComponentFactory.Krypton.Workspace.dll
+D:\source\repos\Document Maker\Document Maker\Document Maker\obj\Debug\Document Maker.csproj.AssemblyReference.cache
+D:\source\repos\Document Maker\Document Maker\Document Maker\obj\Debug\Document_Maker.Form1.resources
+D:\source\repos\Document Maker\Document Maker\Document Maker\obj\Debug\Document_Maker.Properties.Resources.resources
+D:\source\repos\Document Maker\Document Maker\Document Maker\obj\Debug\Document Maker.csproj.GenerateResource.cache
+D:\source\repos\Document Maker\Document Maker\Document Maker\obj\Debug\Document Maker.csproj.CoreCompileInputs.cache
+D:\source\repos\Document Maker\Document Maker\Document Maker\obj\Debug\Document.D225C1DB.Up2Date
+D:\source\repos\Document Maker\Document Maker\Document Maker\obj\Debug\Document Maker.exe
+D:\source\repos\Document Maker\Document Maker\Document Maker\obj\Debug\Document Maker.pdb
+D:\source\repos\Document Maker\Document Maker\Document Maker\obj\Debug\Document Maker.exe.config
+D:\source\repos\Document Maker\Document Maker\Document Maker\bin\Debug\Krypton.Toolkit.dll
+D:\source\repos\Document Maker\Document Maker\Document Maker\bin\Debug\Krypton.Toolkit.xml
+D:\source\repos\Document Maker\Document Maker\Document Maker\bin\Debug\FluentTransitions.dll
+D:\source\repos\Document Maker\Document Maker\Document Maker\bin\Debug\FluentTransitions.xml
+C:\Users\takah\Desktop\source\repos\Document Maker\Document Maker\Document Maker\bin\Debug\ComponentFactory.Krypton.Design.dll
+C:\Users\takah\Desktop\source\repos\Document Maker\Document Maker\Document Maker\bin\Debug\ComponentFactory.Krypton.Docking.dll
+C:\Users\takah\Desktop\source\repos\Document Maker\Document Maker\Document Maker\bin\Debug\ComponentFactory.Krypton.Navigator.dll
+C:\Users\takah\Desktop\source\repos\Document Maker\Document Maker\Document Maker\bin\Debug\ComponentFactory.Krypton.Ribbon.dll
+C:\Users\takah\Desktop\source\repos\Document Maker\Document Maker\Document Maker\bin\Debug\ComponentFactory.Krypton.Toolkit.dll
+C:\Users\takah\Desktop\source\repos\Document Maker\Document Maker\Document Maker\bin\Debug\ComponentFactory.Krypton.Workspace.dll
+C:\Users\takah\Desktop\source\repos\Document Maker\Document Maker\Document Maker\bin\Debug\FluentTransitions.dll
+C:\Users\takah\Desktop\source\repos\Document Maker\Document Maker\Document Maker\bin\Debug\Krypton.Toolkit.dll
+C:\Users\takah\Desktop\source\repos\Document Maker\Document Maker\Document Maker\obj\Debug\Document Maker.csproj.AssemblyReference.cache
+C:\Users\takah\Desktop\source\repos\Document Maker\Document Maker\Document Maker\obj\Debug\Document_Maker.Form1.resources
+C:\Users\takah\Desktop\source\repos\Document Maker\Document Maker\Document Maker\obj\Debug\Document_Maker.Properties.Resources.resources
+C:\Users\takah\Desktop\source\repos\Document Maker\Document Maker\Document Maker\obj\Debug\Document Maker.csproj.GenerateResource.cache
+C:\Users\takah\Desktop\source\repos\Document Maker\Document Maker\Document Maker\obj\Debug\Document Maker.csproj.CoreCompileInputs.cache
+C:\Users\takah\Desktop\source\repos\Document Maker\Document Maker\Document Maker\obj\Debug\Document.D225C1DB.Up2Date
+C:\Users\takah\Desktop\source\repos\Document Maker\Document Maker\Document Maker\obj\Debug\Document_Maker.AboutBox.resources
+C:\Users\takah\Desktop\source\repos\Document Maker\Document Maker\Document Maker\obj\Debug\Document_Maker.ThirdParty.resources
+C:\Users\takah\Desktop\source\repos\Document Maker\Document Maker\Document Maker\obj\Debug\Document_Maker.ResetWarningTaskDialog.resources
+C:\Users\takah\Desktop\source\repos\Document Maker\Document Maker\Document Maker\bin\Debug\AeroWizard.dll
+C:\Users\takah\Desktop\source\repos\Document Maker\Document Maker\Document Maker\bin\Debug\de\AeroWizard.resources.dll
+C:\Users\takah\Desktop\source\repos\Document Maker\Document Maker\Document Maker\bin\Debug\es\AeroWizard.resources.dll
+C:\Users\takah\Desktop\source\repos\Document Maker\Document Maker\Document Maker\bin\Debug\fr\AeroWizard.resources.dll
+C:\Users\takah\Desktop\source\repos\Document Maker\Document Maker\Document Maker\bin\Debug\it\AeroWizard.resources.dll
+C:\Users\takah\Desktop\source\repos\Document Maker\Document Maker\Document Maker\bin\Debug\pl\AeroWizard.resources.dll
+C:\Users\takah\Desktop\source\repos\Document Maker\Document Maker\Document Maker\bin\Debug\ru\AeroWizard.resources.dll
+C:\Users\takah\Desktop\source\repos\Document Maker\Document Maker\Document Maker\bin\Debug\zh-CN\AeroWizard.resources.dll
+C:\Users\takah\Desktop\source\repos\Document Maker\Document Maker\Document Maker\bin\Debug\zh-Hant\AeroWizard.resources.dll
+C:\Users\takah\Desktop\source\repos\Document Maker\Document Maker\Document Maker\obj\Debug\Document_Maker.DCW.resources
+C:\Users\takah\Desktop\source\repos\Document Maker\Document Maker\Document Maker\obj\Debug\Document_Maker.AddressWindow.resources
+C:\Users\takah\Desktop\source\repos\Document Maker\Document Maker\Document Maker\obj\Debug\Document_Maker.FontHelpTooltip.resources
+C:\Users\takah\Desktop\source\repos\Document Maker\Document Maker\Document Maker\obj\Debug\Document_Maker.UseSoftWareWindow.resources
+C:\Users\takah\Desktop\source\repos\Document Maker\Document Maker\Document Maker\obj\Debug\Document_Maker.DialogResetMessagebox.resources
+C:\Users\takah\Desktop\source\repos\Document Maker\Document Maker\Document Maker\obj\Debug\Document_Maker.KeboradShortCut.resources
+C:\Users\takah\Desktop\source\repos\Document Maker\Document Maker\Document Maker\bin\Debug\Microsoft.Office.Interop.Outlook.dll
+C:\Users\takah\Desktop\source\repos\Document Maker\Document Maker\Document Maker\bin\Debug\Microsoft.Office.Interop.Word.dll
+C:\Users\takah\Desktop\source\repos\Document Maker\Document Maker\Document Maker\obj\Debug\Document_Maker.TextResetDialog.resources
+C:\Users\takah\Desktop\source\repos\Document Maker\Document Maker\Document Maker\bin\Debug\SmartDoc.exe.config
+C:\Users\takah\Desktop\source\repos\Document Maker\Document Maker\Document Maker\bin\Debug\SmartDoc.exe
+C:\Users\takah\Desktop\source\repos\Document Maker\Document Maker\Document Maker\bin\Debug\SmartDoc.pdb
+C:\Users\takah\Desktop\source\repos\Document Maker\Document Maker\Document Maker\obj\Debug\SmartDoc.exe
+C:\Users\takah\Desktop\source\repos\Document Maker\Document Maker\Document Maker\obj\Debug\SmartDoc.pdb
+C:\Users\takah\Desktop\source\repos\Document Maker\Document Maker\Document Maker\obj\Debug\SmartDoc.exe.config
