@@ -1,5 +1,9 @@
 <img width="2880" height="1704" alt="スクリーンショット 2025-09-06 012006" src="https://github.com/user-attachments/assets/11345062-4ba1-435e-bdb0-ed32016d5b5d" />
 
+<a href="https://apps.microsoft.com/detail/9NX82BWN9N4V?referrer=appbadge">
+	<img src="https://get.microsoft.com/images/en-us%20dark.svg" width="200"/>
+</a>
+
 # DocuEase「旧名:Document Maker」
 
 _※本ソフトウェアは開発段階であり予告なく廃止することがあります。また本ソフトウェアは文章作成ソフトウェアではなく文章作成を支援するためのテンプレート作成ソフトウェアです。また本ソフトウェアを使用するには予めWordと場合によってはOutlookをインストールする必要があります。_
@@ -40,3 +44,5 @@ Microsoft Outlookと連携し連絡先情報をシートに自動的に書き込
 まだまだ未完成な機能はありますがバージョンアップでさらに機能を随時追加しますのでよろしくお願いいたします。
 
 まだまだ機能は少ないですが後に実装しますのでよろしくお願いします！
+
+</ms-store-badge>
